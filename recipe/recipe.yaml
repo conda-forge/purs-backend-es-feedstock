@@ -1,5 +1,5 @@
 context:
-  version: 1.4.2
+  version: "1.4.3"
 
 package:
   name: purs-backend-es
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/purs-backend-es/-/purs-backend-es-${{ version }}.tgz
-  sha256: a0490052aed5173da0079af5db8b2cbb81ffceeda0eb276b02b577373e7ce03a
+  sha256: b5361f30a9309422f1126028a913849af8fa3cb80a5aa762906ca96acc79bc95
 
 build:
   number: 0
